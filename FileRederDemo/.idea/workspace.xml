@@ -64,6 +64,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\soft\git\Git\bin\git.exe" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -75,63 +80,31 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="66" />
     <option name="y" value="84" />
     <option name="width" value="1811" />
     <option name="height" value="916" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="FileRederDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileRederDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileRederDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileRederDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileRederDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileRederDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileRederDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileRederDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileRederDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileRederDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="sw" type="462c0819:PsiDirectoryNode" />
-              <item name="sufa" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/soft/git/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -190,17 +163,17 @@
       <workItem from="1600879587934" duration="1061000" />
       <workItem from="1601675692521" duration="621000" />
       <workItem from="1603805027925" duration="599000" />
+      <workItem from="1603895664238" duration="755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15018000" />
+    <option name="totallyTimeSpent" value="15773000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="84" width="1811" height="916" extended-state="1" />
-    <editor active="true" />
+    <frame x="66" y="84" width="1811" height="916" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1781839" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
